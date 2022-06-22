@@ -15,7 +15,7 @@
 
 
 ## Roadmap To The Future  💗💗💗
-If you like this editor, you will be suprised.
+If you like this editor, you will be suprised to see Giraffes.
 
 <img align="right" width="342" src="https://user-images.githubusercontent.com/3684889/152149321-3f9c585d-7d87-4dad-ab14-def0d526e71c.png" hspace="50">
 
